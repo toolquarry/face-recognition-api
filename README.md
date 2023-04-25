@@ -1,6 +1,6 @@
 # Face Recognation API
 
-Face Recognation API
+Face Recognition API is a backend endpoint API that uses face recognition technology to detect and analyze faces in images.
 
 ## Setup
 
